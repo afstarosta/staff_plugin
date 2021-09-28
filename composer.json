@@ -1,0 +1,10 @@
+{
+    "name": "afstarosta/staff-plugin",
+    "require": {},
+    "require-dev": {
+        "phpcompatibility/phpcompatibility-wp": "2.1.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "0.7.1",
+        "wp-coding-standards/wpcs": "2.2.1",
+        "squizlabs/php_codesniffer": "3.6"
+    }
+}
